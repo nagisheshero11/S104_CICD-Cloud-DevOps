@@ -1,1 +1,5 @@
 file for secont push
+
+To verify diff command
+
+To verify status command
